@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|c:\\users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\ordersservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|c:\\users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\ordersservice\\dtos\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|solutionrelative:dtos\\additemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|c:\\users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\ordersservice\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|solutionrelative:orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|c:\\users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\ordersservice\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|solutionrelative:repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|c:\\users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\ordersservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|c:\\users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\ordersservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|c:\\users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\ordersservice\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A15D9CD-38D3-2802-2408-FFD9C331E677}|OrdersService.csproj|solutionrelative:dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orders.json",
+              "DocumentMoniker": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\orders.json",
+              "RelativeDocumentMoniker": "orders.json",
+              "ToolTip": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\orders.json",
+              "RelativeToolTip": "orders.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACNAwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T19:10:18.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Dtos\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Dtos\\CreateOrderDto.cs",
+              "RelativeToolTip": "Dtos\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:56:21.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Dtos\\AddItemDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\AddItemDto.cs",
+              "ToolTip": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Dtos\\AddItemDto.cs",
+              "RelativeToolTip": "Dtos\\AddItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:41:31.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAxwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:24:47.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:23:41.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:22:02.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u05D2\u05D9\u05D8\u05D9 \u05E8\u05D9\u05D9\u05E1\u05E0\u05E8\\Documents\\\u05EA\u05E8\u05D2\u05D9\u05DC \u05D1\u05D9\u05EA\\ecommerce\\OrdersService\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:23:00.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

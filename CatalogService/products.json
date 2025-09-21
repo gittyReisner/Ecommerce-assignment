@@ -1,0 +1,23 @@
+[
+  {
+    "id": "b1d5b5e7-8c45-4a9c-8a25-2f5f2a4f1a01",
+    "sku": "SKU001",
+    "name": "Product A",
+    "price": 29.99,
+    "stock": 100
+  },
+  {
+    "id": "b1d5b5e7-8c45-4a9c-8a25-2f5f2a4f1a02",
+    "sku": "SKU002",
+    "name": "Product B",
+    "price": 49.99,
+    "stock": 50
+  },
+  {
+    "id": "b1d5b5e7-8c45-4a9c-8a25-2f5f2a4f1a03",
+    "sku": "SKU003",
+    "name": "Product C",
+    "price": 19.99,
+    "stock": 200
+  }
+]
