@@ -1,48 +1,55 @@
-This project contains 3 services and a React micro-frontend for managing products and orders. It uses JSON files as mock databases instead of SQL Server or Docker (for now).
+# Ecommerce Assignment
 
-**Project Structure**
+This repository contains a minimal ecommerce system with three services:
 
-CatalogService/ – .NET 8 service for managing products (Product CRUD)
-OrdersService/ – .NET 8 service for managing orders (Draft → Confirm/Cancel)
-WebApp/ – React micro-frontend with Redux for displaying products and managing orders
-products.json / orders.json – Mock DB files for each service
+- **CatalogService** – Manages products (CRUD)
+- **OrdersService** – Manages orders (draft → confirm/cancel)
+- **WebApp** – React micro-frontend UI
 
-**Services**
+The project is designed to demonstrate core technical skills, architecture, and prioritization.
 
-CatalogService:
+---
 
-Product CRUD API
-GET /api/products
-POST /api/products
-PATCH /api/products/:id
+## Architecture Overview
 
-Products are stored in products.json
+[WebApp] <--HTTP--> [OrdersService] <--HTTP--> [CatalogService]
 
-OrdersService:
+- **Services communicate over HTTP**.  
+- **Database**: JSON files simulate persistence (products.json, orders.json).  
+- **React App**: Uses Redux for state management and communicates with APIs.
 
-Order management API
+---
 
-Flow:
+## Folder Structure
 
-Create a Draft order
-Add items (validated against CatalogService)
-Confirm / Cancel order
-Data is stored in orders.json
+ecommerce/
 
-WebApp:
+├── CatalogService/
 
-React + Redux
+├── OrdersService/
 
-Pages:
+└── WebApp/
 
-CatalogPage – display products
+---
 
-OrdersPage – create and manage orders
+## Services
 
-Communicates with both CatalogService and OrdersService
+| Service         | URL                     | Notes                            |
+|-----------------|------------------------|---------------------------------|
+| CatalogService  | https://localhost:5249 | Uses `products.json`             |
+| OrdersService   | https://localhost:5273 | Uses `orders.json`               |
+| WebApp          | http://localhost:5173  | React + Redux micro-frontend     |
 
-**Notes**
+---
 
-Temporary Visual Studio files (.vs/) are ignored in Git
-If no products or orders appear, check that products.json and orders.json exist
-All unfinished tasks (Docker, SQL DB, Kafka, CI/CD) are documented in Documentation.md
+## Getting Started
+
+Run CatalogService and OrdersService
+
+Open WebApp in browser
+
+Create a draft order, select products, add quantities
+
+Confirm or cancel the order
+
+Observe total price and order status
